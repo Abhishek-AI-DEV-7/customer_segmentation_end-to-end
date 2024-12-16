@@ -3,3 +3,4 @@ eda.ipynb
 docker-compose.yml
 logs/
 *.log
+.env
